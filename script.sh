@@ -1,1 +1,2 @@
-echo "My Stepik ID is: <ID>"
+#!/bin/bash
+echo "My Stepik ID is: <602787940>"
