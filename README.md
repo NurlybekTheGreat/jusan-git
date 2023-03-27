@@ -60,7 +60,7 @@ int main() {
 
 | **Платформа** | Ссылка                               | Отвечу за     |
 |---------------|--------------------------------------|---------------|
-| Почта         | [Ссылка] (https://youtube.com)       |  24 часа      |
-| LinkedIn      | [Ссылка] (https://youtube.com)       |  12 часов     |
-| WhatsApp      | [Ссылка] (https://youtube.com)       |  30 минут     |
-| Telegram      | [Ссылка] (https://youtube.com)       |  1 час        |
+| Почта         | [Ссылка](https://youtube.com)       |  24 часа      |
+| LinkedIn      | [Ссылка](https://youtube.com)       |  12 часов     |
+| WhatsApp      | [Ссылка](https://youtube.com)       |  30 минут     |
+| Telegram      | [Ссылка](https://youtube.com)       |  1 час        |
